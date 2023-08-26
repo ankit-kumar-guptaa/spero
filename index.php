@@ -99,7 +99,7 @@
                                         <h6 class="slide-sub-title ltn__secondary-color animated text-uppercase"><span><i class="fas fa-square-full"></i></span> Great Experience In Building</h6>
                                         <h1 class="slide-title animated ">Highest Standards <br> Of Construction</h1>
                                         <div class="slide-brief animated">
-                                            <p>All types of work – from designing and laying the Foundation
+                                            <p>All types of work  from designing and laying the Foundation
                                                 finishing and commissioning. Tight deadlines, reasonable.</p>
                                         </div>
                                         <div class="btn-wrapper animated">
